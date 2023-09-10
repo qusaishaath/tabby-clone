@@ -137,23 +137,22 @@ p {
 }
 .cardd1 h1 {
   align-items: center;
-  font-size: 30px;
+  font-size: 25px;
 }
-.cardd1 .btn_1 {
+/* .cardd1 .btn_1 {
   margin-top: 60px;
   margin-left: 30%;
-}
-.cardd1 img {
+} */
+/* .cardd1 img {
   margin-left: 43%;
-}
+} */
 .chapter_2 {
   margin-top: 130px;
 }
 
 .cardd1{
     margin: 3fr;
-    height: 450px;
-    border: 1px solid gray;
-    border-radius: 40px;
+    /* border: 1px solid gray;
+    border-radius: 40px; */
    
 }
